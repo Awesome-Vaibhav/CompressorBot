@@ -19,7 +19,7 @@ try:
     API_HASH = "c1860784db86000a0eaec3f916d6d4ee"
     BOT_TOKEN = "6938446899:AAHmRaB6cmlu9uaqOAQJibmgBdzjosY3ZoQ"
     OWNER = "5798143340"
-    LOG = "-1610003838"
+    LOG = "-2115453744"
 except Exception as e:
     LOGS.info("Environment vars Missing")
     LOGS.info("something went wrong")
